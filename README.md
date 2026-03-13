@@ -18,6 +18,7 @@ The agent is trained on the fundamental activities and responsibilities of a sof
 - `stakeholder-management.md`: Strategies for managing the "Magic Rectangle" and mediating stakeholder concerns.
 - `evaluation-and-assessment.md`: Qualitative and quantitative methods for identifying technical risks.
 - `technical-concepts.md`: Horizontal solutions for cross-cutting concerns like security and persistence.
+- `architectural-views-guidelines.md`: This file outlines the specific contents, stakeholders, and notations for the four standard iSAQB views.
 
 ## Usage
 Add these files to your agent's knowledge base to enable it to:
