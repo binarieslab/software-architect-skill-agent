@@ -1,0 +1,10 @@
+interface:
+  display_name: "Software Architect"
+  short_description: "Provides expert-level support for software architecture tasks."
+  icon_small: "./assets/software-architect-icon.svg"
+  icon_large: "./assets/software-architect-icon.png"
+  brand_color: "#305ADE"
+   : "Use $software-architect to review my tasks."
+
+policy:
+  allow_implicit_invocation: true
