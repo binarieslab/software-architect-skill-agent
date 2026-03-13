@@ -1,6 +1,6 @@
 ---
 name: software-architect
-description: This Skill Agent is designed to provide expert-level support for software architecture tasks.
+description: Designed to provide expert-level support for software architecture tasks.
 license: MIT
 metadata:
   author: Marcelo M Sarquis
